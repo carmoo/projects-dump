@@ -1,0 +1,35 @@
+<PreferenceScreen
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        app:key="edit_profile_category"
+        app:title="Edit Profile" />
+
+    <Preference
+        app:key="ChangeUsername"
+        app:title="Edit Username"
+        app:summary="Click here to edit your username"/>
+
+    <Preference
+        app:key="ChangeProfilePicture"
+        app:title="Edit Profile Picture"
+        app:summary="Click here to change your profile picture with a random one"/>
+
+    <PreferenceCategory
+        app:key="account_category"
+        app:title="Account" />
+
+    <Preference
+            app:key="ChangePassword"
+            app:title="Change your password"
+            app:summary="Click here to change the password"/>
+
+
+        <Preference
+            app:key="Logout"
+            app:title="Logout"
+            app:summary="" />
+
+
+</PreferenceScreen>
+

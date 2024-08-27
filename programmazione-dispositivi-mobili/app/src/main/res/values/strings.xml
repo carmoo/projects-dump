@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">GamesUniverse</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_string">Home</string>
+    <string name="description">Description</string>
+    <string name="platform">Platform</string>
+    <string name="category">Category</string>
+    <string name="profile_string">Profile</string>
+    <string name="favourites_string">Favourites</string>
+    <string name="logo">Logo Application</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="join_us" translatable="false">Join us:</string>
+    <string name="sign_up" translatable="false">Sign up</string>
+    <string name="go_back" translatable="false"> &lt; </string>
+    <string name="email" translatable="false">Email </string>
+    <string name="welcome" translatable="false">Welcome</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="confirm_password" translatable="false">Confirm Your Password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="txt_or">OR</string>
+    <string name="google_login">Login with Google</string>
+    <string name="new_account">Never subscribed?</string>
+    <string name="password_error">Must have at least 8 characters</string>>
+    <string name="reset_password">Reset password:</string>
+    <string name="new_password">New password</string>
+    <string name="confierm_new_password">Confirm the new password</string>
+    <string name="reset">RESET</string>
+    <string name="birth_date">Please insert your birth date</string>
+
+    <string name="error_message">Data are not correct</string>
+    <string name="error_message2">Email already used</string>
+    <string name="error_message3">Password not correct</string>
+    <string name="error_message4">Email not correct</string>
+    <string name="error_message5">Password not match</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="search_string">Search</string>
+    <string name="insertName">Insert Name</string>
+    <string name="insertSurname">Insert Surname</string>
+
+</resources>
